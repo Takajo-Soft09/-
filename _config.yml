@@ -1,1 +1,5 @@
 theme: jekyll-theme-merlot
+title: Github Pages チュードリアル
+description: 自己紹介　ポラドワーフ・ド・ヴェンダ
+github: 
+  is_project_page_: false
